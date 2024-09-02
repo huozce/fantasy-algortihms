@@ -1,0 +1,14 @@
+C:\Users\husoc\source\repos\oyun\oyun\bin\Debug\net6.0\oyun.exe
+C:\Users\husoc\source\repos\oyun\oyun\bin\Debug\net6.0\oyun.deps.json
+C:\Users\husoc\source\repos\oyun\oyun\bin\Debug\net6.0\oyun.runtimeconfig.json
+C:\Users\husoc\source\repos\oyun\oyun\bin\Debug\net6.0\oyun.dll
+C:\Users\husoc\source\repos\oyun\oyun\bin\Debug\net6.0\oyun.pdb
+C:\Users\husoc\source\repos\oyun\oyun\obj\Debug\net6.0\oyun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husoc\source\repos\oyun\oyun\obj\Debug\net6.0\oyun.AssemblyInfoInputs.cache
+C:\Users\husoc\source\repos\oyun\oyun\obj\Debug\net6.0\oyun.AssemblyInfo.cs
+C:\Users\husoc\source\repos\oyun\oyun\obj\Debug\net6.0\oyun.csproj.CoreCompileInputs.cache
+C:\Users\husoc\source\repos\oyun\oyun\obj\Debug\net6.0\oyun.dll
+C:\Users\husoc\source\repos\oyun\oyun\obj\Debug\net6.0\refint\oyun.dll
+C:\Users\husoc\source\repos\oyun\oyun\obj\Debug\net6.0\oyun.pdb
+C:\Users\husoc\source\repos\oyun\oyun\obj\Debug\net6.0\oyun.genruntimeconfig.cache
+C:\Users\husoc\source\repos\oyun\oyun\obj\Debug\net6.0\ref\oyun.dll
